@@ -1,4 +1,4 @@
-Whole example
+Whole example:
 ```
 insertvariablehere = 5
 
@@ -7,7 +7,7 @@ while insertvariablehere < 10:
     insertvariablehere += 1
 ```
 
-EXAMPLE 2:
+Without "insertvariablehere += 1":
 
 ```
 insertvariablehere = 5
