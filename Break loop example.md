@@ -11,6 +11,7 @@ for n in range(101):
         print(n)
 ```
 
+EXPLANATION:
 
 ```
 magicNumber = 25
