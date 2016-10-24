@@ -1,6 +1,6 @@
 EXAMPLE 1:
 ```
-#Give it a variable
+# Give it a variable
 test = 123
 
 #Test variable
