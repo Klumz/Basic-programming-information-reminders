@@ -20,7 +20,7 @@ while insertvariablehere < 10:
 With "insertvariablehere += 1":
 
 ```
-# This example adds +1 after printing out "5", stopping the infinite loop.
+# This example adds +1 after printing out "5" each time, stopping the infinite loop.
 while insertvariablehere < 10:
     print(insertvariablehere)
     insertvariablehere += 1
