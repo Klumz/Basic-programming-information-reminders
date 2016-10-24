@@ -7,6 +7,7 @@ for f in food:
 ```
 
 ```
+#Assign values/a list to a variable
 food = ["potatoes", "eggs", "beef"]
 
 #Doesn't have to be "f"
