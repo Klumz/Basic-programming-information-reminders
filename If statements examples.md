@@ -3,7 +3,7 @@ EXAMPLE 1:
 # Give it a variable
 test = 123
 
-#Test variable
+#Test with 1 variable
 if test == 123:
     print "correct"
 elif test == 456:
