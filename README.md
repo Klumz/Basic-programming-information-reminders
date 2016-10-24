@@ -1,1 +1,0 @@
-# Basic-programming-information-reminders
