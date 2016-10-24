@@ -10,9 +10,15 @@ for f in food:
 food = ["potatoes", "eggs", "beef"]
 
 #Doesn't have to be "f"
+
 for f in food: 
+
     #prints the whole list of items
+
     print(f) 
+    
     #prints length of each food
+    
     print(len(f)) 
+   
 ```
