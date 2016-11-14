@@ -1,8 +1,6 @@
 
-```
-def convert(usd):
+```def convert(usd):
     amount = usd * 8.166 #nok
     print "The inserted usd amount is", amount, "nok."
 
-convert(1)
-```
+convert(1)```
