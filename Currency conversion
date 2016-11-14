@@ -1,3 +1,4 @@
+
 ```
 def convert(usd):
     amount = usd * 8.166 #nok
