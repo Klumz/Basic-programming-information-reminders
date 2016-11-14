@@ -1,8 +1,10 @@
-
 ```
-def convert(usd):
-    amount = usd * 8.166 #nok
-    print "The inserted usd amount is", amount, "nok."
+magicNumber = 25
 
-convert(1)
+for n in range(101):
+    if n is magicNumber:
+        print(n, "is the magic number!")
+        break
+    else:
+        print(n)
 ```
