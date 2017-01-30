@@ -1,0 +1,32 @@
+#include "stdafx.h"
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+	int answer = 9;
+	int guess;
+	bool notguessed = true;
+	while (notguessed)
+	{
+		cout << "What number am I thinking of?: ";
+		cin >> guess;
+
+		if (guess > answer)
+		{
+			cout << "Too high. Try again!" << endl;
+		}
+		if (guess < answer)
+		{
+			cout << "Too low. Try again!" << endl;
+		}
+		if (guess == answer)
+		{
+			cout << "Correct!" << endl;
+			notguessed = false;
+		}
+	}
+
+    return 0;
+}
